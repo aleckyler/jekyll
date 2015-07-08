@@ -34,3 +34,4 @@ Jekyll does what you tell it to do — no more, no less. It doesn't try to outs
 ## License
 
 See [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE).
+puts 'Hello world'
